@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885231519027",
+    "firebase_url": "https://criminaldbms.firebaseio.com",
+    "project_id": "criminaldbms",
+    "storage_bucket": "criminaldbms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885231519027:android:bd1ca3b0624df4f36f2a46",
+        "android_client_info": {
+          "package_name": "com.example.criminal_dbms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885231519027-aadrd2ruik760i07515jatnqcec7s5ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.criminal_dbms",
+            "certificate_hash": "27a0f7d7bb085c388775ac34b4cdbe85ca9db497"
+          }
+        },
+        {
+          "client_id": "885231519027-ipremst584frpbkpoeoj4dtq94ut5sqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF_QhhQFQzx-RC7gJYGlIktwgFhLQ0e7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885231519027-ipremst584frpbkpoeoj4dtq94ut5sqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
